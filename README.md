@@ -1,2 +1,2 @@
-# typescript-journey
-The journey to conquer the girl named typescript
+
+*The journey to conquer the girl named Typescript* 8-) 
